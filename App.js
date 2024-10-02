@@ -144,7 +144,6 @@ function ExperienciaScreen({ onNavigateHome }) {
 }
 
 function CompetenciaScreen({ onNavigateHome }) {
-    // Competência específica com nível de 90%
     const competencias = [
         { nome: 'Node.js', nivel: 0.9 },
         { nome: 'PHP', nivel: 0.6 },
